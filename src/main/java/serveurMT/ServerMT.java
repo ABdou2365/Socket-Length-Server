@@ -50,7 +50,7 @@ public class ServerMT extends Thread
                     String response = "The length of the text you sent is " + s.length();
                     pw.println(response);
                 }
-
+                //commit trick
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
