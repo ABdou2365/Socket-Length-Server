@@ -36,6 +36,7 @@ public class ServeurChat extends Application {
 
         Button buttonConnect = new Button("Connect");
 
+
         HBox hBox = new HBox();
         VBox vBox1 = new VBox();
         hBox.setSpacing(10);
